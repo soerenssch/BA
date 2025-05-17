@@ -35,6 +35,7 @@ As of Apr-25, the repository only entails the code, but not the fetched - and fo
 
 ## Miscellaneous 
 
-tbd
+The folder 'data' includes both the stratified samples used in each iteration of developing the taxonomy, as well as the results of the cluster analysis. 
+Unfortunately, the underlying >5.5 million collections for the iterations are too large for GitHub. Should these be needed for further research or examination, feel free to reach out to me. 
 
 ---
